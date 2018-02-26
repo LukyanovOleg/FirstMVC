@@ -21,6 +21,5 @@ namespace WebCore
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
-
     }
 }
